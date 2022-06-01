@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
+body{
+    background-color: #ddd;
+}
+.container{
+    background-color: #fff;
+    height: 50vh;
+    width: 80vh;
+    margin: auto;
+    position: relative;
+    top: 10vh;
+}
+.body{
+    background-color: green;
+    height: 30vh;
+    width: 50vh;
+    margin: auto;
+    position: relative;
+    top: 10vh;
+}
+.circle{
+    background-color: red;
+    height: 20vh;
+    width: 20vh;
+    position: relative;
+    top: 5vh;
+    margin: auto;
+    border-radius: 50%;
+}
